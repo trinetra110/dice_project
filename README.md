@@ -1,2 +1,2 @@
-Dice Project
+# Dice Project
 Dice game between 2 players
